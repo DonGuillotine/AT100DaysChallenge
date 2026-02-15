@@ -136,4 +136,5 @@ SPECTACULAR_SETTINGS = {
                    'and stores them in Pinecone for intelligent text retrieval RAG) and chat interactions.',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
+
 }
